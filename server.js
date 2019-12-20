@@ -9,7 +9,6 @@ app.use(express.json())
 
 app.use(routes)
 
-
 app.listen(port,()=>{
   console.log("Server listening at localhost: " + port)
 })
