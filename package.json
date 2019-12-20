@@ -1,0 +1,22 @@
+{
+  "name": "sgt-m4-final",
+  "version": "1.0.0",
+  "description": "sgt-m4-final",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peterzhang123/sgt-m4-final.git"
+  },
+  "keywords": [
+    "sgt-m4-final"
+  ],
+  "author": "Peter Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peterzhang123/sgt-m4-final/issues"
+  },
+  "homepage": "https://github.com/Peterzhang123/sgt-m4-final#readme"
+}
