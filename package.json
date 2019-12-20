@@ -4,6 +4,7 @@
   "description": "sgt-m4-final",
   "main": "server.js",
   "scripts": {
+    "start":"nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/Peterzhang123/sgt-m4-final/issues"
   },
-  "homepage": "https://github.com/Peterzhang123/sgt-m4-final#readme"
+  "homepage": "https://github.com/Peterzhang123/sgt-m4-final#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
