@@ -4,6 +4,8 @@ const routes = require('./routes')
 
 const app = express();
 
+app.use(express.urlencoded({extends:false}));
+
 app.use(express.json())
 
 app.use(routes)
