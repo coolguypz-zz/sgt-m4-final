@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Peterzhang123/sgt-m4-final#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql2": "^2.0.2"
   },
   "devDependencies": {
